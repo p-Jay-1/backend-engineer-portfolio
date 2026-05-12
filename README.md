@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-000?style=flat-square)
+![Spring](https://img.shields.io/badge/Spring-000?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=flat-square)
+
 # Backend & Web Developer
 
 Java/Spring 기반 웹 서비스 개발 및 유지보수를 하고 있습니다.
