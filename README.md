@@ -1,6 +1,4 @@
-![Java](https://img.shields.io/badge/Java-000?style=flat-square)
-![Spring](https://img.shields.io/badge/Spring-000?style=flat-square)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=flat-square)
+<img width="1774" height="887" alt="Developer-banner" src="https://github.com/user-attachments/assets/4c7ffd05-bb36-4bab-9ba9-93f9d40d756e" />
 
 # Backend & Web Developer
 
