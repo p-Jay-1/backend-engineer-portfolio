@@ -1,9 +1,5 @@
 <img width="1774" height="887" alt="Developer-banner" src="https://github.com/user-attachments/assets/4c7ffd05-bb36-4bab-9ba9-93f9d40d756e" />
 
-# Backend & Web Developer
-
-Java/Spring 기반 웹 서비스 개발 및 유지보수를 하고 있습니다.
-
 ## 가능한 작업
 - 홈페이지 제작 및 유지보수
 - 관리자 페이지 개발
